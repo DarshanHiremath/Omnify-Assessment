@@ -7,6 +7,8 @@ Introduction:
 Admin Login Page:
 
   The application begins with an admin login page, which serves as the gateway to the weather information management system. The login page is designed with a strong emphasis on security, requiring valid credentials to access the system. This authentication step ensures that only authorized administrators can interact with the application's functionalities.
+
+  <img width="957" alt="1 Admin Login Page" src="https://github.com/DarshanHiremath/Omnify-Assessment/assets/87310019/e333cefc-6ca7-4799-8916-c01d5ff152a7">
   
 Add Weather Details:
 
